@@ -45,7 +45,7 @@ public class DuplicateElement {
     //     System.out.println(duplicates);
          
 
-    // 4. using HashSet time - O(n) time O(n)
+    // 4. using HashSet time - O(n) time O(n3)
 
     HashSet<Integer>set = new HashSet<>();
     for(int x : arr){
