@@ -46,9 +46,7 @@ public class TwoSum {
                 return true;
             }
             set.add(x);
-            
-
-        }
+            }
         return false;
     }
 
