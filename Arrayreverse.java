@@ -5,6 +5,7 @@ public class Arrayreverse{
     public static void main(String[] args){
 
         // by Two -pointer Time complexity _ O(n) space : O(1)
+        // by stack it take space - O(n) so we prefer by two-pointer
 
         int[] arr={1,2,3,4,5};
        
