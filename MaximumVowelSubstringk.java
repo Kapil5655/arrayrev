@@ -23,6 +23,9 @@ public class MaximumVowelSubstringk {
     int k = 4;
     int max = maximumVowels(s,k);
     System.out.println(max);
+
+
+    
     }
    
 
